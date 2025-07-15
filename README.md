@@ -17,4 +17,4 @@
 
 ## 🖼️ 使用畫面
 
-![screenshot](./screenshot.png)
+<img src="./screenshot.png" alt="screenshot" width="400"/>
