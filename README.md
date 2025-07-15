@@ -17,3 +17,4 @@
 
 ## 🖼️ 使用畫面
 
+![screenshot](./screenshot.png)
